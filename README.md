@@ -4,9 +4,9 @@ This is a social media application built with Flutter and Supabase. It provides 
 
 # Glimpse
 <img width="200" alt="Screenshot 2024-08-03 at 10 18 00 AM" src="https://github.com/brotherrabbit91/social_app_demo/blob/main/assets/dc94d6a1-f036-432a-be92-6cca99e431a1.png">
-<img width="200" alt="Screenshot 2024-08-03 at 10 18 32 AM" src="https://github.com/brotherrabbit91/social_app_demo/blob/main/assets/99b04d0f-f91c-455f-9b14-ede492ba0e1f">
-<img width="200" alt="Screenshot 2024-08-03 at 10 18 42 AM" src="https://github.com/brotherrabbit91/social_app_demo/blob/main/assets/b69c16d1-5c4f-4ddd-9d40-ea5ac7a28981">
-<img width="200" alt="Screenshot 2024-08-03 at 10 18 54 AM" src="https://github.com/brotherrabbit91/social_app_demo/blob/main/assets/8da36b7e-0a71-40db-8624-488bd6ad65a8">
+<img width="200" alt="Screenshot 2024-08-03 at 10 18 32 AM" src="https://github.com/brotherrabbit91/social_app_demo/blob/main/assets/99b04d0f-f91c-455f-9b14-ede492ba0e1f.png">
+<img width="200" alt="Screenshot 2024-08-03 at 10 18 42 AM" src="https://github.com/brotherrabbit91/social_app_demo/blob/main/assets/b69c16d1-5c4f-4ddd-9d40-ea5ac7a28981.png">
+<img width="200" alt="Screenshot 2024-08-03 at 10 18 54 AM" src="https://github.com/brotherrabbit91/social_app_demo/blob/main/assets/8da36b7e-0a71-40db-8624-488bd6ad65a8.png">
 
 ## Features
 
