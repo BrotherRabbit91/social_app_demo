@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.thankupet" "\0"
-            VALUE "FileDescription", "social_app_demo" "\0"
+            VALUE "CompanyName", "com.example" "\0"
+            VALUE "FileDescription", "demo_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "social_app_demo" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2024 com.thankupet. All rights reserved." "\0"
-            VALUE "OriginalFilename", "social_app_demo.exe" "\0"
-            VALUE "ProductName", "social_app_demo" "\0"
+            VALUE "InternalName", "demo_app" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "demo_app.exe" "\0"
+            VALUE "ProductName", "demo_app" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
